@@ -5,12 +5,12 @@ html {
 
 
 h1 {
-  font-size: 70px;
+  font-size: 80px;
   text-align: center;
 }
 
 p, li {
-  font-size: 60px;
+  font-size: 70px;
   line-height: 2;
   letter-spacing: 1px;
 }
